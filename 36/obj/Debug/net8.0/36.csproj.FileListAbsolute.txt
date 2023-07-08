@@ -1,0 +1,15 @@
+F:\Лина\Учеба\Тестирование\Homework\Homework5\exercise36\36\bin\Debug\net8.0\36.exe
+F:\Лина\Учеба\Тестирование\Homework\Homework5\exercise36\36\bin\Debug\net8.0\36.deps.json
+F:\Лина\Учеба\Тестирование\Homework\Homework5\exercise36\36\bin\Debug\net8.0\36.runtimeconfig.json
+F:\Лина\Учеба\Тестирование\Homework\Homework5\exercise36\36\bin\Debug\net8.0\36.dll
+F:\Лина\Учеба\Тестирование\Homework\Homework5\exercise36\36\bin\Debug\net8.0\36.pdb
+F:\Лина\Учеба\Тестирование\Homework\Homework5\exercise36\36\obj\Debug\net8.0\36.csproj.AssemblyReference.cache
+F:\Лина\Учеба\Тестирование\Homework\Homework5\exercise36\36\obj\Debug\net8.0\36.GeneratedMSBuildEditorConfig.editorconfig
+F:\Лина\Учеба\Тестирование\Homework\Homework5\exercise36\36\obj\Debug\net8.0\36.AssemblyInfoInputs.cache
+F:\Лина\Учеба\Тестирование\Homework\Homework5\exercise36\36\obj\Debug\net8.0\36.AssemblyInfo.cs
+F:\Лина\Учеба\Тестирование\Homework\Homework5\exercise36\36\obj\Debug\net8.0\36.csproj.CoreCompileInputs.cache
+F:\Лина\Учеба\Тестирование\Homework\Homework5\exercise36\36\obj\Debug\net8.0\36.dll
+F:\Лина\Учеба\Тестирование\Homework\Homework5\exercise36\36\obj\Debug\net8.0\refint\36.dll
+F:\Лина\Учеба\Тестирование\Homework\Homework5\exercise36\36\obj\Debug\net8.0\36.pdb
+F:\Лина\Учеба\Тестирование\Homework\Homework5\exercise36\36\obj\Debug\net8.0\36.genruntimeconfig.cache
+F:\Лина\Учеба\Тестирование\Homework\Homework5\exercise36\36\obj\Debug\net8.0\ref\36.dll
